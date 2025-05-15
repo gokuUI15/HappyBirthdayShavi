@@ -52,7 +52,7 @@ header a{
     transform: translateX(-50%);
     padding-right: 30%;
     box-sizing: border-box;
-    color: #10064e;
+    color: hsl(245, 100%, 50%);
     text-shadow: 0 5px 10px #0004;
 }
 .carousel .list .item .author{
@@ -66,7 +66,7 @@ header a{
     line-height: 1.3em;
 }
 .carousel .list .item .topic{
-    color: #f1683a;
+    color: #f80000;
 }
 .carousel .list .item .buttons{
     display: grid;
